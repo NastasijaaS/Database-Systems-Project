@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OracleWebAPIService", "OracleWebAPIService\OracleWebAPIService.csproj", "{9E663691-BBB2-484B-BA53-D6A54B60499B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAccess", "DatabaseAccess\DatabaseAccess.csproj", "{398B330E-DD89-4D00-9B66-B7B1C3AB7214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E663691-BBB2-484B-BA53-D6A54B60499B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E663691-BBB2-484B-BA53-D6A54B60499B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E663691-BBB2-484B-BA53-D6A54B60499B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E663691-BBB2-484B-BA53-D6A54B60499B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398B330E-DD89-4D00-9B66-B7B1C3AB7214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398B330E-DD89-4D00-9B66-B7B1C3AB7214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398B330E-DD89-4D00-9B66-B7B1C3AB7214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398B330E-DD89-4D00-9B66-B7B1C3AB7214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C394F6B-089B-45EB-98E1-F4C394C58EC4}
+	EndGlobalSection
+EndGlobal

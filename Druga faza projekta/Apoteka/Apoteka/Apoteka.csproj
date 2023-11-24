@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C684C843-AC84-4C56-A10B-C4E2D0EDA47D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Apoteka</RootNamespace>
+    <AssemblyName>Apoteka</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr3.Runtime.3.5.1\lib\net40-client\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentNHibernate, Version=3.1.0.0, Culture=neutral, PublicKeyToken=8aa435e3cb308880, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.3.1.0\lib\net461\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.4\lib\net461\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=5.3.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.5.3.3\lib\net461\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.21.6.1\lib\net462\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.2.2.0\lib\net45\Remotion.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq.EagerFetching, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.EagerFetching.2.2.0\lib\net45\Remotion.Linq.EagerFetching.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.6.0.0\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataLayer.cs" />
+    <Compile Include="DTOManager.cs" />
+    <Compile Include="DTOs.cs" />
+    <Compile Include="Entiteti\Farmaceut.cs" />
+    <Compile Include="Entiteti\Indikacija.cs" />
+    <Compile Include="Entiteti\Kontraindikacija.cs" />
+    <Compile Include="Entiteti\Lek.cs" />
+    <Compile Include="Entiteti\Pakovanje.cs" />
+    <Compile Include="Entiteti\ProdajeSe.cs" />
+    <Compile Include="Entiteti\ProdajeSeUId.cs" />
+    <Compile Include="Entiteti\ProdajnoMesto.cs" />
+    <Compile Include="Entiteti\Proizvodjac.cs" />
+    <Compile Include="Entiteti\RadiU.cs" />
+    <Compile Include="Entiteti\RadiUId.cs" />
+    <Compile Include="Entiteti\Recept.cs" />
+    <Compile Include="Entiteti\TipLeka.cs" />
+    <Compile Include="Entiteti\UpakovanU.cs" />
+    <Compile Include="Entiteti\UpakovanUId.cs" />
+    <Compile Include="Entiteti\Zaposleni.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajZaposlenogUProdajnoMestoForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajZaposlenogUProdajnoMestoForma.Designer.cs">
+      <DependentUpon>DodajZaposlenogUProdajnoMestoForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\LekDodajForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\LekDodajForm.Designer.cs">
+      <DependentUpon>LekDodajForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\LekIzmeniForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\LekIzmeniForma.Designer.cs">
+      <DependentUpon>LekIzmeniForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\LekoviForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\LekoviForm.Designer.cs">
+      <DependentUpon>LekoviForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\LekoviPrikaziProdajnaMesta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\LekoviPrikaziProdajnaMesta.Designer.cs">
+      <DependentUpon>LekoviPrikaziProdajnaMesta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\LekPrikaziIndikacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\LekPrikaziIndikacije.Designer.cs">
+      <DependentUpon>LekPrikaziIndikacije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\LekPrikaziKontraindikacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\LekPrikaziKontraindikacije.Designer.cs">
+      <DependentUpon>LekPrikaziKontraindikacije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\LekUpakujForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\LekUpakujForm.Designer.cs">
+      <DependentUpon>LekUpakujForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\NovaIndikacija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\NovaIndikacija.Designer.cs">
+      <DependentUpon>NovaIndikacija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\NovaKontraindikacija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\NovaKontraindikacija.Designer.cs">
+      <DependentUpon>NovaKontraindikacija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ProdajnaMestaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ProdajnaMestaForm.Designer.cs">
+      <DependentUpon>ProdajnaMestaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ProdajnoMestoDodajForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ProdajnoMestoDodajForm.Designer.cs">
+      <DependentUpon>ProdajnoMestoDodajForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ProdajnoMestoLekoviForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ProdajnoMestoLekoviForm.Designer.cs">
+      <DependentUpon>ProdajnoMestoLekoviForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ProdajnoMestoUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ProdajnoMestoUpdateForm.Designer.cs">
+      <DependentUpon>ProdajnoMestoUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ProdajnoMestoZaposleniForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ProdajnoMestoZaposleniForm.Designer.cs">
+      <DependentUpon>ProdajnoMestoZaposleniForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ZaposleniDodajForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ZaposleniDodajForm.Designer.cs">
+      <DependentUpon>ZaposleniDodajForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ZaposleniForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ZaposleniForm.Designer.cs">
+      <DependentUpon>ZaposleniForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ZaposleniPregledajRecepteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ZaposleniPregledajRecepteForm.Designer.cs">
+      <DependentUpon>ZaposleniPregledajRecepteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ZaposleniUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ZaposleniUpdateForm.Designer.cs">
+      <DependentUpon>ZaposleniUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapiranja\FarmaceutMapiranja.cs" />
+    <Compile Include="Mapiranja\IndikacijaMapiranja.cs" />
+    <Compile Include="Mapiranja\KontraindikacijaMapiranja.cs" />
+    <Compile Include="Mapiranja\LekMapiranja.cs" />
+    <Compile Include="Mapiranja\PakovanjeMapiranja.cs" />
+    <Compile Include="Mapiranja\ProdajeSeMapiranje.cs" />
+    <Compile Include="Mapiranja\ProdajnoMestoMapiranja.cs" />
+    <Compile Include="Mapiranja\ProizvodjacMapiranja.cs" />
+    <Compile Include="Mapiranja\RadiUMapiranja.cs" />
+    <Compile Include="Mapiranja\ReceptMapiranja.cs" />
+    <Compile Include="Mapiranja\TipLekaMapiranja.cs" />
+    <Compile Include="Mapiranja\UpakovanUMapiranja.cs" />
+    <Compile Include="Mapiranja\ZaposleniMapiranja.cs" />
+    <Compile Include="PocetnaStranica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PocetnaStranica.Designer.cs">
+      <DependentUpon>PocetnaStranica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajZaposlenogUProdajnoMestoForma.resx">
+      <DependentUpon>DodajZaposlenogUProdajnoMestoForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\LekDodajForm.resx">
+      <DependentUpon>LekDodajForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\LekIzmeniForma.resx">
+      <DependentUpon>LekIzmeniForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\LekoviForm.resx">
+      <DependentUpon>LekoviForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\LekoviPrikaziProdajnaMesta.resx">
+      <DependentUpon>LekoviPrikaziProdajnaMesta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\LekPrikaziIndikacije.resx">
+      <DependentUpon>LekPrikaziIndikacije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\LekPrikaziKontraindikacije.resx">
+      <DependentUpon>LekPrikaziKontraindikacije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\LekUpakujForm.resx">
+      <DependentUpon>LekUpakujForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\NovaIndikacija.resx">
+      <DependentUpon>NovaIndikacija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\NovaKontraindikacija.resx">
+      <DependentUpon>NovaKontraindikacija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ProdajnaMestaForm.resx">
+      <DependentUpon>ProdajnaMestaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ProdajnoMestoDodajForm.resx">
+      <DependentUpon>ProdajnoMestoDodajForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ProdajnoMestoLekoviForm.resx">
+      <DependentUpon>ProdajnoMestoLekoviForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ProdajnoMestoUpdateForm.resx">
+      <DependentUpon>ProdajnoMestoUpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ProdajnoMestoZaposleniForm.resx">
+      <DependentUpon>ProdajnoMestoZaposleniForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ZaposleniDodajForm.resx">
+      <DependentUpon>ZaposleniDodajForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ZaposleniForm.resx">
+      <DependentUpon>ZaposleniForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ZaposleniPregledajRecepteForm.resx">
+      <DependentUpon>ZaposleniPregledajRecepteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ZaposleniUpdateForm.resx">
+      <DependentUpon>ZaposleniUpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PocetnaStranica.resx">
+      <DependentUpon>PocetnaStranica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Oracle.ManagedDataAccess.Client.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets" Condition="Exists('..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets'))" />
+  </Target>
+</Project>

@@ -1,0 +1,699 @@
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Remotion.Linq.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Buffers.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Memory.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Text.Json.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.ValueTuple.dll
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Remotion.Linq.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Buffers.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Memory.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Text.Json.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\bin\Debug\System.ValueTuple.xml
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\obj\Debug\Apoteka.csprojAssemblyReference.cache
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CopyComplete
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\obj\Debug\Apoteka.PocetnaStranica.resources
+C:\Users\Kaca\source\repos\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnaMestaForm.resources
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Remotion.Linq.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Text.Json.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Remotion.Linq.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Text.Json.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Downloads\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\User\Downloads\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnaMestaForm.resources
+C:\Users\User\Downloads\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoDodajForm.resources
+C:\Users\User\Downloads\Apoteka\Apoteka\obj\Debug\Apoteka.PocetnaStranica.resources
+C:\Users\User\Downloads\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\User\Downloads\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\User\Downloads\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\User\Downloads\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoUpdateForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Remotion.Linq.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Buffers.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Memory.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Text.Json.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.ValueTuple.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Remotion.Linq.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Buffers.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Memory.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Text.Json.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.ValueTuple.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnaMestaForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoDodajForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoUpdateForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.PocetnaStranica.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CopyComplete
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniDodajForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniUpdateForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniPregledajRecepteForm.resources
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Remotion.Linq.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Text.Json.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Remotion.Linq.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Text.Json.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnaMestaForm.resources
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoDodajForm.resources
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoUpdateForm.resources
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniDodajForm.resources
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniForm.resources
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniPregledajRecepteForm.resources
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniUpdateForm.resources
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.PocetnaStranica.resources
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviForm.resources
+C:\Users\User\Downloads\wetransfer_apoteka_2022-05-18_2237\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekDodajForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Remotion.Linq.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Buffers.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Memory.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Text.Json.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.ValueTuple.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Remotion.Linq.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Buffers.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Memory.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Text.Json.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\bin\Debug\System.ValueTuple.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekDodajForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnaMestaForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoDodajForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoUpdateForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniDodajForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniPregledajRecepteForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniUpdateForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.PocetnaStranica.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CopyComplete
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekIzmeniForma.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviPrikaziProdajnaMesta.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziIndikacije.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaIndikacija.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziKontraindikacije.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaKontraindikacija.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-19_1230\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekUpakujForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Remotion.Linq.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Buffers.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Memory.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Text.Json.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.ValueTuple.dll
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Remotion.Linq.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Buffers.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Memory.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Text.Json.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\bin\Debug\System.ValueTuple.xml
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.csprojAssemblyReference.cache
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekDodajForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekIzmeniForma.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviPrikaziProdajnaMesta.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziIndikacije.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziKontraindikacije.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekUpakujForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaIndikacija.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaKontraindikacija.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnaMestaForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoDodajForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoUpdateForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniDodajForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniPregledajRecepteForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniUpdateForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.PocetnaStranica.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CopyComplete
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoLekoviForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoZaposleniForm.resources
+C:\Users\Kaca\Downloads\Baze-backup-master\Baze-backup-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.DodajZaposlenogUProdajnoMestoForma.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Remotion.Linq.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Buffers.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Memory.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Text.Json.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.ValueTuple.dll
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Remotion.Linq.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Buffers.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Memory.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Text.Json.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\bin\Debug\System.ValueTuple.xml
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.DodajZaposlenogUProdajnoMestoForma.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekDodajForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekIzmeniForma.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviPrikaziProdajnaMesta.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziIndikacije.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziKontraindikacije.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekUpakujForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaIndikacija.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaKontraindikacija.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnaMestaForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoDodajForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoLekoviForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoUpdateForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoZaposleniForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniDodajForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniPregledajRecepteForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniUpdateForm.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.PocetnaStranica.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CopyComplete
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\David M\Desktop\wetransfer_apoteka_2022-05-20_1407\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Remotion.Linq.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Buffers.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Memory.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Text.Json.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.ValueTuple.dll
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Remotion.Linq.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Buffers.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Memory.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Text.Json.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Baze projekat backup\Apoteka\Apoteka\bin\Debug\System.ValueTuple.xml
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.SuggestedBindingRedirects.cache
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.DodajZaposlenogUProdajnoMestoForma.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekDodajForm.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekIzmeniForma.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviForm.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviPrikaziProdajnaMesta.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziIndikacije.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziKontraindikacije.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekUpakujForm.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaIndikacija.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaKontraindikacija.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnaMestaForm.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoDodajForm.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoLekoviForm.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoUpdateForm.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoZaposleniForm.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniDodajForm.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniForm.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniPregledajRecepteForm.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniUpdateForm.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.PocetnaStranica.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CopyComplete
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+D:\Baze projekat backup\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Remotion.Linq.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Buffers.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Memory.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Text.Json.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.ValueTuple.dll
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Remotion.Linq.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Buffers.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Memory.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Text.Json.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\bin\Debug\System.ValueTuple.xml
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.csprojAssemblyReference.cache
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.DodajZaposlenogUProdajnoMestoForma.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekDodajForm.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekIzmeniForma.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviForm.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviPrikaziProdajnaMesta.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziIndikacije.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziKontraindikacije.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekUpakujForm.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaIndikacija.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaKontraindikacija.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnaMestaForm.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoDodajForm.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoLekoviForm.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoUpdateForm.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoZaposleniForm.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniDodajForm.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniForm.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniPregledajRecepteForm.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniUpdateForm.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.PocetnaStranica.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CopyComplete
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Kaca\Downloads\Baze-Projekat-master\Baze-Projekat-master\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Remotion.Linq.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Buffers.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Memory.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Text.Json.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.ValueTuple.dll
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Remotion.Linq.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Buffers.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Memory.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Text.Json.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.ValueTuple.xml
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.csprojAssemblyReference.cache
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.DodajZaposlenogUProdajnoMestoForma.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekDodajForm.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekIzmeniForma.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviForm.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviPrikaziProdajnaMesta.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziIndikacije.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziKontraindikacije.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekUpakujForm.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaIndikacija.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaKontraindikacija.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnaMestaForm.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoDodajForm.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoLekoviForm.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoUpdateForm.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoZaposleniForm.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniDodajForm.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniForm.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniPregledajRecepteForm.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniUpdateForm.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.PocetnaStranica.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CopyComplete
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Kaca\Desktop\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Remotion.Linq.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Buffers.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Memory.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Text.Json.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.ValueTuple.dll
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Remotion.Linq.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Buffers.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Memory.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Text.Json.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\bin\Debug\System.ValueTuple.xml
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.DodajZaposlenogUProdajnoMestoForma.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekDodajForm.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekIzmeniForma.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviForm.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviPrikaziProdajnaMesta.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziIndikacije.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziKontraindikacije.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekUpakujForm.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaIndikacija.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaKontraindikacija.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnaMestaForm.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoDodajForm.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoLekoviForm.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoUpdateForm.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoZaposleniForm.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniDodajForm.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniForm.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniPregledajRecepteForm.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniUpdateForm.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.PocetnaStranica.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CopyComplete
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\David M\Downloads\Apoteka\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Remotion.Linq.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Antlr3.Runtime.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Remotion.Linq.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.DodajZaposlenogUProdajnoMestoForma.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekDodajForm.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekIzmeniForma.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviForm.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekoviPrikaziProdajnaMesta.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziIndikacije.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekPrikaziKontraindikacije.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.LekUpakujForm.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaIndikacija.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.NovaKontraindikacija.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnaMestaForm.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoDodajForm.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoLekoviForm.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoUpdateForm.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ProdajnoMestoZaposleniForm.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniDodajForm.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniForm.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniPregledajRecepteForm.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Forme.ZaposleniUpdateForm.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.PocetnaStranica.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\User\Desktop\Sistemi Baze projekat\Druga faza projekta\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
